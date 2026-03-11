@@ -1,4 +1,4 @@
-# Bybit V5 Quantitative Trading Bot (BOTH Strategy)
+# Bybit V5 Quantitative Trading Bot
 
 Bybit V5 API를 기반으로 동작하는 암호화폐 선물 숏(Short) 전용 자동 매매 봇입니다. 
 급등락이 심한 알트코인 시장에서 발생할 수 있는 슬리피지와 휩쏘(Whipsaw)에 대응하기 위해, 철저한 손익비 계산과 유동성 필터링을 거친 후 지정가 매매를 수행하도록 설계되었습니다.
