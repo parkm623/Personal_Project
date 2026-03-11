@@ -1,0 +1,12 @@
+# 설정 및 비밀번호
+config.json
+.env
+
+# 로그 및 데이터 파일
+*.log
+*.csv
+*.json
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
